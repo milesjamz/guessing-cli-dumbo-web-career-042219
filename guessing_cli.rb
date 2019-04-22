@@ -12,3 +12,4 @@ case guess
  else puts "The computer guessed #{winning_number}."
   end
 end
+end
